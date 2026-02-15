@@ -1,2 +1,14 @@
-# FakeStore-API-Validation
-Enterprise-style API validation framework using Postman with chaining, environment variables, data-driven testing and negative scenarios.
+# FakeStore API Validation Framework
+
+This project demonstrates structured API validation using Postman.
+
+## Features
+- Dynamic chaining
+- Environment variables
+- Data-driven testing
+- Positive & Negative scenario separation
+
+## Execution
+1. Import collection
+2. Import environment
+3. Run with CSV using Collection Runner
